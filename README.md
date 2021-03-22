@@ -5,9 +5,13 @@ STEPS:
 1. Install Prerequisite Software:
 
 *Java 1.8
+
 *MySql 5.6 + MySql Connector/J + workbench (http://dev.mysql.com/downloads/windows/installer/)
+
 *Eclipse Luna
+
 *Install Maven plugin in Eclipse (http://download.eclipse.org/technology/m2e/releases/)
+
 
 2.Set Enviroment Variables (Paths may vary based on OS and installation):
 
