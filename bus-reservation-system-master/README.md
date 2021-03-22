@@ -1,10 +1,9 @@
 Bus Reservation System
 ======================
-[![Build Status](https://travis-ci.org/shivajivarma/bus-reservation-system.svg?branch=master)](https://travis-ci.org/shivajivarma/bus-reservation-system)
 
 Bus reservation system application, written in java.
 
-Project Documentation: http://shivajivarma.com/project/bus-reservation-system/
+
 
 
 ###Setup:
@@ -21,14 +20,13 @@ Project Documentation: http://shivajivarma.com/project/bus-reservation-system/
 	* ```JAVA_HOME=C:\Program Files\Java\jdk1.8.0_20```
 
 3. Clone the source code:
- 	```bash
- 	git clone https://github.com/shivajivarma/bus-reservation-system.git
- 	```
+ 
+
  	
 4. Import project into eclipse.
 
 5. Make sure eclispe is using currect JDK.
 
-6. Database setup (https://github.com/shivajivarma/bus-reservation-system/tree/master/db)
+6. Database setup 
 
 7. Set Maven goals Eg: compile, package
